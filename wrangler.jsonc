@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "geminicle",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "GeminiDt",
+      "database_id": "7c84c493-6a3f-479e-85f4-1158e45dee8f"
+    }
+  ]
+}
